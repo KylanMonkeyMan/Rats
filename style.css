@@ -1,0 +1,56 @@
+body {
+background-color: rgba(255, 120, 54, 0.73);
+}
+p {
+  font-weight: 100;
+  font-family: cursive;
+  color: black;
+  font-size: 20px;
+  text-shadow: -3px 3px rgba(255, 115, 0, 0.64);
+  text-align: center;
+}
+h1 {
+  font-size: 60px;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  font-family: cursive;
+  text-shadow: -3px 3px rgba(255, 115, 0, 0.64);
+}
+h2 {
+  font-family: cursive;
+  text-shadow: -3px 3px rgba(255, 115, 0, 0.64);
+}
+img {
+  border-style: double;
+  border-width: 6px;
+  border-radius: 30%;
+  
+}
+button {
+  font-size: 20px;
+  border-style: double;
+  border-width: 4px;
+  border-radius: 20%;
+  background-color: black;
+  
+}
+
+a {
+  font-family: cursive;
+  color: rgba(255, 115, 0, 0.64)
+}
+.list {
+  margin: auto;
+  width: 10%;
+}
+li {
+  font-weight: 100;
+  font-family: cursive;
+  color: black;
+  font-size: 20px;
+  text-shadow: -3px 3px rgba(255, 115, 0, 0.64);
+ 
+}
+
+
